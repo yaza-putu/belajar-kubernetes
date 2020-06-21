@@ -5,6 +5,7 @@ Belajar kubernetes di local menggunakan minikube
 dari https://github.com/khannedy/belajar-kubernetes
 
 #sumber nicolas yaros [larakube] https://github.com/nicolas-yaros/larakube
+<br>
 Laravel
 Walk through deploying a Laravel application on auto scaled Kubernetes cluster.
 
