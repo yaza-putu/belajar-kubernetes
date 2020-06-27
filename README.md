@@ -10,4 +10,7 @@ Laravel
 Walk through deploying a Laravel application on auto scaled Kubernetes cluster.
 
 Goal: Deploy PHP app that will auto scale based on average CPU utilization across deployed instance.
+<br>
+
+#sumber by groovemonkey https://github.com/groovemonkey/project-based-kubernetes
 
